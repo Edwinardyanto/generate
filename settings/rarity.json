@@ -1,0 +1,623 @@
+{
+  "layers": [
+    {
+      "name": "BACKGROUND",
+      "attributes": [
+        {
+          "name": "ADARIMA HILL.png",
+          "weight": 1
+        },
+        {
+          "name": "BAM RODUM.png",
+          "weight": 6
+        },
+        {
+          "name": "BAPIHRA.png",
+          "weight": 6
+        },
+        {
+          "name": "BAR TEUHM.png",
+          "weight": 6
+        },
+        {
+          "name": "BOL OSARIMA CONDOM.png",
+          "weight": 3
+        },
+        {
+          "name": "DEG OKEAHL.png",
+          "weight": 6
+        },
+        {
+          "name": "DHIR ERAHLA.png",
+          "weight": 6
+        },
+        {
+          "name": "DOAL CONDOM.png",
+          "weight": 3
+        },
+        {
+          "name": "DRILE CONDOM.png",
+          "weight": 3
+        },
+        {
+          "name": "DUM ARARIL.png",
+          "weight": 6
+        },
+        {
+          "name": "EBORA.png",
+          "weight": 6
+        },
+        {
+          "name": "EHEORO CONDOM.png",
+          "weight": 3
+        },
+        {
+          "name": "GAN EPRILO.png",
+          "weight": 6
+        },
+        {
+          "name": "GIGH EGORA FOREST.png",
+          "weight": 1
+        },
+        {
+          "name": "GIL BOKAL CONDOM.png",
+          "weight": 3
+        },
+        {
+          "name": "GORN HOIHRA.png",
+          "weight": 6
+        },
+        {
+          "name": "GUL OTUHM.png",
+          "weight": 6
+        },
+        {
+          "name": "HAN ARIHR CONDOM.png",
+          "weight": 3
+        },
+        {
+          "name": "HAN OPAL CONDOM.png",
+          "weight": 3
+        },
+        {
+          "name": "MANUHR.png",
+          "weight": 6
+        },
+        {
+          "name": "VAGH ANAOR CONDOM.png",
+          "weight": 3
+        },
+        {
+          "name": "VER GAPALE SKY.png",
+          "weight": 1
+        },
+        {
+          "name": "VON AHEDUME CONDOM.png",
+          "weight": 3
+        },
+        {
+          "name": "VON ARERIMA FUNGUS.png",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "BODY",
+      "attributes": [
+        {
+          "name": "ADOR.png",
+          "weight": 6
+        },
+        {
+          "name": "BOL SAORA.png",
+          "weight": 6
+        },
+        {
+          "name": "DEG EBERILE SKULL.png",
+          "weight": 1
+        },
+        {
+          "name": "GAL ANOUHRO.png",
+          "weight": 3
+        },
+        {
+          "name": "GEORO.png",
+          "weight": 6
+        },
+        {
+          "name": "GER OTOTIL.png",
+          "weight": 6
+        },
+        {
+          "name": "MUGH PERORA.png",
+          "weight": 3
+        },
+        {
+          "name": "MUL OROUHM.png",
+          "weight": 6
+        },
+        {
+          "name": "PDUM HELLBOUND.png",
+          "weight": 1
+        },
+        {
+          "name": "TORILA.png",
+          "weight": 6
+        },
+        {
+          "name": "VER TORIM.png",
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "name": "CLOTHES",
+      "attributes": [
+        {
+          "name": "AUHR WARRIOR.png",
+          "weight": 6
+        },
+        {
+          "name": "BAM AHEAL SWAMP.png",
+          "weight": 3
+        },
+        {
+          "name": "BER OSOUHM KNIGHT.png",
+          "weight": 3
+        },
+        {
+          "name": "DAMTIL SAMURAI.png",
+          "weight": 3
+        },
+        {
+          "name": "EKODUM WARRIOR.png",
+          "weight": 6
+        },
+        {
+          "name": "ENORE WARRIOR.png",
+          "weight": 6
+        },
+        {
+          "name": "GER POTILA WARRIOR.png",
+          "weight": 6
+        },
+        {
+          "name": "GORE DOCTOR.png",
+          "weight": 3
+        },
+        {
+          "name": "GUL GOOR ROPE.png",
+          "weight": 1
+        },
+        {
+          "name": "KOUHR WARRIOR.png",
+          "weight": 6
+        },
+        {
+          "name": "MUGH AGAOR WARRIOR.png",
+          "weight": 6
+        },
+        {
+          "name": "MUL GEUHR WARRIOR.png",
+          "weight": 6
+        },
+        {
+          "name": "MUL HOOR WARRIOR.png",
+          "weight": 6
+        },
+        {
+          "name": "NEED SUIT.png",
+          "weight": 6
+        },
+        {
+          "name": "OMODUMA RONIN.png",
+          "weight": 1
+        },
+        {
+          "name": "OSOIHR WARRIOR.png",
+          "weight": 6
+        },
+        {
+          "name": "RENORO WARRIOR.png",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "FACE",
+      "attributes": [
+        {
+          "name": "ABRIMA.png",
+          "weight": 6
+        },
+        {
+          "name": "BAN BADRIM.png",
+          "weight": 1
+        },
+        {
+          "name": "BER AHORO.png",
+          "weight": 6
+        },
+        {
+          "name": "BRIL.png",
+          "weight": 6
+        },
+        {
+          "name": "EALA.png",
+          "weight": 3
+        },
+        {
+          "name": "EBDUM.png",
+          "weight": 6
+        },
+        {
+          "name": "GAL OSAHL.png",
+          "weight": 6
+        },
+        {
+          "name": "GAN AKERIM.png",
+          "weight": 1
+        },
+        {
+          "name": "GEDUM.png",
+          "weight": 1
+        },
+        {
+          "name": "GIGH TEAHLO.png",
+          "weight": 3
+        },
+        {
+          "name": "GUL POTUHR.png",
+          "weight": 6
+        },
+        {
+          "name": "HEPDUM.png",
+          "weight": 3
+        },
+        {
+          "name": "HODUM.png",
+          "weight": 6
+        },
+        {
+          "name": "HORNY.png",
+          "weight": 1
+        },
+        {
+          "name": "HUHRO.png",
+          "weight": 3
+        },
+        {
+          "name": "KOG GABUHR.png",
+          "weight": 6
+        },
+        {
+          "name": "MAUHR.png",
+          "weight": 6
+        },
+        {
+          "name": "MESUHRA.png",
+          "weight": 3
+        },
+        {
+          "name": "OUHR.png",
+          "weight": 6
+        },
+        {
+          "name": "VER EGEUHMA.png",
+          "weight": 3
+        },
+        {
+          "name": "VON EGUHR.png",
+          "weight": 6
+        }
+      ]
+    },
+    {
+      "name": "CAP",
+      "attributes": [
+        {
+          "name": "ACE.png",
+          "weight": 3
+        },
+        {
+          "name": "BANANA.png",
+          "weight": 3
+        },
+        {
+          "name": "BOLT.png",
+          "weight": 6
+        },
+        {
+          "name": "BUTTLE.png",
+          "weight": 6
+        },
+        {
+          "name": "CATCH EM ALL.png",
+          "weight": 1
+        },
+        {
+          "name": "DECEMBER.png",
+          "weight": 3
+        },
+        {
+          "name": "DEVIL.png",
+          "weight": 1
+        },
+        {
+          "name": "DRILL.png",
+          "weight": 6
+        },
+        {
+          "name": "DRIP.png",
+          "weight": 6
+        },
+        {
+          "name": "E T.png",
+          "weight": 3
+        },
+        {
+          "name": "EYE.png",
+          "weight": 6
+        },
+        {
+          "name": "F THE SAFETY.png",
+          "weight": 6
+        },
+        {
+          "name": "FIRE.png",
+          "weight": 1
+        },
+        {
+          "name": "FUNGUS.png",
+          "weight": 3
+        },
+        {
+          "name": "GREEN APPLE.png",
+          "weight": 3
+        },
+        {
+          "name": "HELICAL.png",
+          "weight": 6
+        },
+        {
+          "name": "HOT.png",
+          "weight": 3
+        },
+        {
+          "name": "ICE CREAM.png",
+          "weight": 3
+        },
+        {
+          "name": "MECHA.png",
+          "weight": 3
+        },
+        {
+          "name": "MUST BE REPLACED.png",
+          "weight": 3
+        },
+        {
+          "name": "NONE.png",
+          "weight": 14
+        },
+        {
+          "name": "ORIGINAL ONE.png",
+          "weight": 6
+        },
+        {
+          "name": "PENCIL.png",
+          "weight": 3
+        },
+        {
+          "name": "PIRATES.png",
+          "weight": 6
+        },
+        {
+          "name": "RABY.png",
+          "weight": 1
+        },
+        {
+          "name": "SAGGY.png",
+          "weight": 6
+        },
+        {
+          "name": "SEXICON.png",
+          "weight": 6
+        },
+        {
+          "name": "SHIELD.png",
+          "weight": 6
+        },
+        {
+          "name": "SKULL.png",
+          "weight": 6
+        },
+        {
+          "name": "STRAWBERRY.png",
+          "weight": 3
+        },
+        {
+          "name": "TANGERINE.png",
+          "weight": 3
+        },
+        {
+          "name": "THORN.png",
+          "weight": 6
+        },
+        {
+          "name": "TRISTAR.png",
+          "weight": 6
+        },
+        {
+          "name": "VINE.png",
+          "weight": 6
+        },
+        {
+          "name": "WEB.png",
+          "weight": 6
+        },
+        {
+          "name": "ZIGZAG.png",
+          "weight": 6
+        }
+      ]
+    },
+    {
+      "name": "BEARD",
+      "attributes": [
+        {
+          "name": "AGAOR BEARD.png",
+          "weight": 3
+        },
+        {
+          "name": "AUHM BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "BER KAMTILA BEARD.png",
+          "weight": 3
+        },
+        {
+          "name": "BOMUHMA BEARD.png",
+          "weight": 1
+        },
+        {
+          "name": "BOR ETOAHLA BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "DHIR OPADUM BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "DOR BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "EDDUMO BEARD.png",
+          "weight": 3
+        },
+        {
+          "name": "EPIHRA BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "EPRIL BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "ERIL BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "GOR OBAHL BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "GORN OHOR BEARD.png",
+          "weight": 1
+        },
+        {
+          "name": "GUL ETAOR BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "KOG AMORA BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "LONG AKOAHLO.png",
+          "weight": 3
+        },
+        {
+          "name": "MTILA BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "MUGH ODEORO BEARD.png",
+          "weight": 3
+        },
+        {
+          "name": "MUGH RAALA BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "MUL DADTIL BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "NONE.png",
+          "weight": 14
+        },
+        {
+          "name": "NOOR BEARD.png",
+          "weight": 3
+        },
+        {
+          "name": "OGRIMA BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "OPRIM BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "OTORIL BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "TENTACLES.png",
+          "weight": 3
+        },
+        {
+          "name": "THOR AHETILO BEARD.png",
+          "weight": 6
+        },
+        {
+          "name": "VON ESOUHRO BEARD.png",
+          "weight": 3
+        },
+        {
+          "name": "VON POBAHLA BEARD.png",
+          "weight": 6
+        }
+      ]
+    },
+    {
+      "name": "ACC",
+      "attributes": [
+        {
+          "name": "BAM DATUHR.png",
+          "weight": 9
+        },
+        {
+          "name": "DOGGY.png",
+          "weight": 1
+        },
+        {
+          "name": "GER EKUHM.png",
+          "weight": 8
+        },
+        {
+          "name": "KATTY.png",
+          "weight": 2
+        },
+        {
+          "name": "NONE.png",
+          "weight": 25
+        },
+        {
+          "name": "TAGTIL.png",
+          "weight": 9
+        },
+        {
+          "name": "TRIM.png",
+          "weight": 8
+        },
+        {
+          "name": "VER NATIL.png",
+          "weight": 9
+        }
+      ]
+    }
+  ]
+}
