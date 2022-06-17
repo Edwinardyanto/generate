@@ -5,7 +5,7 @@ const createMetadata = (_hash, _count, _attributes) => {
 
     let metadata = {
         id: _hash,
-        name: ` Journey of Cava #${_count}`,
+        name: ` Dickie Dwarves WTF #${_count}`,
         description: config.image_description,
         image: `${config.image_location}/${_count}.png`,
         edition: _count,
