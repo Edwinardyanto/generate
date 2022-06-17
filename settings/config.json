@@ -1,0 +1,18 @@
+{
+    "layers": [
+        "BACKGROUND",
+        "BODY",
+        "CLOTHES",
+        "FACE",
+        "CAP",
+        "BEARD",
+        "ACC"
+    ],
+    "image_description": "Dickie Dwarves WTF",
+    "image_count": 4999,
+    "image_details": {
+        "width": 1024,
+        "height": 1024
+    },
+    "image_location": "ipfs://QmSvqvy1HwBQ2mtynZe9yzXvFJyepTrhUBpGEp8mvsyoLj"
+}
